@@ -19,7 +19,7 @@ ___
 ### Usage
 - After you installing the dependencies the application can be run `node server.js`
 - You can follow the video bellow:[Video link]()
-- Also you can find [deployed link]()
+- Also you can find [deployed link](https://stormy-ridge-15134.herokuapp.com/)
 
 ### Contribution
 - Respect.
